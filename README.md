@@ -1,4 +1,17 @@
-## Hi there 👋
+Hi, I'm Tejas Wagh 👋
+
+DevOps Engineer passionate about cloud infrastructure and automation.
+
+Skills
+- AWS
+- Jenkins
+- Docker
+- Kubernetes
+- Terraform
+- Linux
+- CI/CD pipelines
+
+Currently building DevOps automation projects.## Hi there 👋
 
 <!--
 **tejaswagh70/tejaswagh70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
