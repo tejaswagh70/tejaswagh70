@@ -11,7 +11,7 @@ Skills
 - Linux
 - CI/CD pipelines
 
-Currently building DevOps automation projects.## Hi there 👋
+Currently building DevOps automation projects.
 
 <!--
 **tejaswagh70/tejaswagh70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
