@@ -1,29 +1,66 @@
-Hi, I'm Tejas Wagh 👋
+# 👋 Hey, I'm Tejas Wagh
 
-DevOps Engineer passionate about cloud infrastructure and automation.
+🚀 **DevOps Engineer | Cloud Infrastructure | Automation Enthusiast**
 
-Skills
-- AWS
-- Jenkins
-- Docker
-- Kubernetes
-- Terraform
-- Linux
-- CI/CD pipelines
+I build and automate **cloud infrastructure, CI/CD pipelines, and containerized deployments** using modern DevOps tools.
+My focus is on improving **deployment speed, reliability, and scalability** through automation.
 
-Currently building DevOps automation projects.
+---
 
-<!--
-**tejaswagh70/tejaswagh70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
 
-Here are some ideas to get you started:
+* 🎓 Computer Engineering Graduate
+* ☁️ Hands-on with **AWS cloud infrastructure**
+* ⚙️ Passionate about **automation & CI/CD pipelines**
+* 🐳 Love working with **Docker containers & Kubernetes**
+* 🔧 Always experimenting with **DevOps tools and infrastructure projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech Stack
+
+### ☁️ Cloud
+
+* AWS (EC2, S3, IAM, VPC)
+
+### ⚙️ DevOps Tools
+
+* Jenkins
+* Docker
+* Kubernetes
+* Terraform
+
+### 🖥 Systems
+
+* Linux
+* Shell Scripting
+
+### 🔁 CI/CD
+
+* GitHub
+* Git
+* Jenkins Pipelines
+
+### 📊 Monitoring
+
+* Datadog
+
+
+---
+
+## 📊 GitHub Stats
+
+![Tejas GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejaswagh029\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswagh029\&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/tejaswagh029/
+
+---
+
+⚡ **"Automate everything. Ship faster. Break less."**
