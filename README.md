@@ -48,13 +48,7 @@ My focus is on improving **deployment speed, reliability, and scalability** thro
 
 ---
 
-## 📊 GitHub Stats
 
-![Tejas GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejaswagh029\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswagh029\&layout=compact)
-
----
 
 ## 🌐 Connect With Me
 
